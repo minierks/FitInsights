@@ -1,0 +1,26 @@
+{
+  "intensity": {
+    "Aerobics": 0.715,
+    "Boxing": 0.716,
+    "CrossFit": 0.82,
+    "Cycling": 0.769,
+    "HIIT": 0.817,
+    "Pilates": 0.62,
+    "Rowing": 0.769,
+    "Running": 0.762,
+    "Soccer": 0.721,
+    "Strength Training": 0.722,
+    "Swimming": 0.774,
+    "Tennis": 0.721,
+    "Walking": 0.62,
+    "Yoga": 0.627
+  },
+  "typical_minutes": {
+    "Advanced": 58.2,
+    "Beginner": 36.6,
+    "Intermediate": 45.0,
+    "Professional": 60.6
+  },
+  "high_intensity_threshold": 0.8,
+  "max_minutes_observed": 70.2
+}
